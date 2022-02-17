@@ -10,7 +10,8 @@ Là một thành viên khóa `K16` của trường Công Nghệ Thông Tin - DHQ
  - Mình luôn hứng thú và tò mò với mọi thứ xung quanh, vì vậy mình chỉ muốn trải nghiệm những thứ mà mình có thể, nhưng dù là trò chơi nào thì mục đích là để hạnh phúc, vì vậy hãy chơi những gì mọi người đều hạnh phúc (trừ code ra, code không làm mọi người hạnh phúc đâu :> )  
 # Trình độ học vấn
   ## Le Quy Don High School for the gifted
- * Được học trong môi trường chất lượng học sinh tốt, đội ngũ giáo viên giàu kinh nghiệm cùng với cơ sở vật chất hàng đầu, mình được trải nghiệm một không gian học cực kì thoải mái và tận hưởng tiện nghi mà ngôi trường mang lại. Chính ở đây cũng cho mình thấy rằng tài năng thôi là chưa đủ, dù đi bằng mọi con đường thì nỗ lực và đam mê mới là thứ khiến con người ta đi đến con đường vinh quang nhất*</p>
+  *Chuyên ngành vật lý (Physics major) 2018-2021*</p>
+ Được học trong môi trường chất lượng học sinh tốt, đội ngũ giáo viên giàu kinh nghiệm cùng với cơ sở vật chất hàng đầu, mình được trải nghiệm một không gian học cực kì thoải mái và tận hưởng tiện nghi mà ngôi trường mang lại. Chính ở đây cũng cho mình thấy rằng tài năng thôi là chưa đủ, dù đi bằng mọi con đường thì nỗ lực và đam mê mới là thứ khiến con người ta đi đến con đường vinh quang nhất*</p>
  ## VNUHCM-University of Information Technology
  *Cử nhân ngành Khoa học Máy tính (Honor Degree) 2021-2025* </p>
      Là trường thành viên của ĐHQG-HCM, trường ĐH CNTT có nhiệm vụ đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao, góp phần tích cực vào sự phát triển của nền công nghiệp công nghệ thông tin Việt Nam, mình hi vọng ở đây mình sẽ nỗ lực để đạt được điều mình mong muốn
