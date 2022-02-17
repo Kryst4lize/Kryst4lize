@@ -4,7 +4,7 @@ Là một thành viên khóa `K16` của trường Công Nghệ Thông Tin - DHQ
     - **MSSV:** 21520063 </p>
     - **Ngày sinh:** 8/01/2003</p>
     - **Địa chỉ:** Liên Chiểu, Đà Nẵng
-    - **Kĩ năng:** `C++`, `Javascript`và `HMTL` và `CSS`.</p>
+    - **Kĩ năng:** `C++`, `Javascript`và `HMTL`,`CSS`.</p>
 # Lý tưởng sống
 *"Cuộc sống là một trò chơi, vậy nên hãy chơi những gì bạn muốn"*</p>
  - Mình luôn hứng thú và tò mò với mọi thứ xung quanh, vì vậy mình chỉ muốn trải nghiệm những thứ mà mình có thể, nhưng dù là trò chơi nào thì mục đích là để hạnh phúc, vì vậy hãy chơi những gì mọi người đều hạnh phúc (trừ code ra, code không làm mọi người hạnh phúc đâu :> )  
