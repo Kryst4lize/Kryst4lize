@@ -11,13 +11,13 @@ Là một thành viên khóa `K16` của trường Công Nghệ Thông Tin - DHQ
 # Trình độ học vấn
   ## Le Quy Don High School for the gifted
   *Chuyên ngành vật lý (Physics major) 2018-2021*</p>
- Được học trong môi trường chất lượng học sinh tốt, đội ngũ giáo viên giàu kinh nghiệm cùng với cơ sở vật chất hàng đầu, mình được trải nghiệm một không gian học cực kì thoải mái và tận hưởng tiện nghi mà ngôi trường mang lại. Chính ở đây cũng cho mình thấy rằng tài năng thôi là chưa đủ, dù đi bằng mọi con đường thì nỗ lực và đam mê mới là thứ khiến con người ta đi đến con đường vinh quang nhất*</p>
+ Được học trong môi trường chất lượng học sinh tốt, đội ngũ giáo viên giàu kinh nghiệm cùng với cơ sở vật chất hàng đầu, mình được trải nghiệm một không gian học cực kì thoải mái và tận hưởng tiện nghi mà ngôi trường mang lại. *</p>
  ## VNUHCM-University of Information Technology
  *Cử nhân ngành Khoa học Máy tính (Honor Degree) 2021-2025* </p>
      Là trường thành viên của ĐHQG-HCM, trường ĐH CNTT có nhiệm vụ đào tạo nguồn nhân lực công nghệ thông tin chất lượng cao, góp phần tích cực vào sự phát triển của nền công nghiệp công nghệ thông tin Việt Nam, mình hi vọng ở đây mình sẽ nỗ lực để đạt được điều mình mong muốn
 # Sở thích 
  *    Đọc light novel, đọc các tác phẩm kinh điển như `War and Peace` , `Hả ri pót tơ` và mây mây 
- *    League of legends, CS:Go, FO4, ... và cả tá tựa game bạn có thể nghĩ ra :3. Tin mình đi, game nào bạn chơi game đó có mình :> 
+ *    League of legends, CS:Go, FO4, ... Đưa một cái tên game thì mình có trong đó :> 
  *    Chơi bóng chuyền. Hic bộ môn này mình ko giỏi nhưng mà mình siêu ghiền hihi 
 # Liên hệ với mình tại 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Krystal0801/)
