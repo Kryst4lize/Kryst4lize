@@ -23,3 +23,7 @@ Là một thành viên khóa `K16` của trường Công Nghệ Thông Tin - DHQ
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Krystal0801/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:21520063@gm.uit.edu.vn)
 
+
+
+[![Le Thanh Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kryst4lize)](https://github.com/Kryst4lize)
+
