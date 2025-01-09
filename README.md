@@ -2,7 +2,7 @@
 Là một thành viên khóa `K16` của trường Công Nghệ Thông Tin - DHQG HCM</p>
     - **Họ và tên:** Lê Thanh Minh</p>
     - **MSSV:** 21520063 </p>
-    - **Ngày sinh:** 8/01/2003</p>
+    - **Ngày sinh:** 08/01/2003</p>
     - **Địa chỉ:** Liên Chiểu, Đà Nẵng
     - **Kĩ năng:** `C++`, `Javascript`và `HMTL`,`CSS`.</p>
 # Lý tưởng sống
